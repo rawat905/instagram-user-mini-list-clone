@@ -1,0 +1,87 @@
+body {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.pair1 {
+  display: flex;
+}
+.img1 {
+  width: 4vw;
+  border-radius: 50px;
+  padding: 20px;
+}
+.oliver {
+  width: 60px;
+  margin-top: 20px;
+}
+.ol {
+  font-size: 19px;
+}
+.follow1 {
+  width: 5vw;
+  height: 5vh;
+  margin: 30px 0px 0px 200px;
+  font-size: 20px;
+  color: white;
+  background-color: blue;
+  border: none;
+}
+.pair2 {
+  display: flex;
+}
+.img2 {
+  width: 4vw;
+  height: 8vh;
+  border-radius: 90px;
+  padding: 20px;
+}
+.mimi {
+  width: 80px;
+  margin-top: 20px;
+}
+.mi {
+  font-size: 19px;
+}
+.follow2 {
+  width: 5vw;
+  height: 5vh;
+  margin: 30px 0px 0px 180px;
+  font-size: 20px;
+  color: white;
+  background-color: blue;
+  border: none;
+}
+.pair3 {
+  display: flex;
+}
+.img3 {
+  width: 4vw;
+  height: 8vh;
+  border-radius: 50px;
+  padding: 20px;
+}
+.rex {
+  width: 120px;
+  margin-top: 20px;
+}
+.re {
+  font-size: 19px;
+  display: block;
+}
+.follow3 {
+  width: 5vw;
+  height: 5vh;
+  margin: 35px 0px 0px 142px;
+  font-size: 20px;
+  color: white;
+  background-color: blue;
+  border: none;
+}
+#papa {
+  background-color: white;
+  width: 30vw;
+  margin: 30px;
+  font-family: "Roboto", sans-serif;
+}
